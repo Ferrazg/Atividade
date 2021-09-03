@@ -2,4 +2,4 @@
 
 ##  Arquivo readme conforme solicitado na ativadade.
 
-# esssa alteração foi realizada do clone feito em repositorio local.
+# essa alteraÃ§Ã£o foi realizada do clone feito em repositorio local.
